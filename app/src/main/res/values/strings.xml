@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MovieAppusingMVVM</string>
+    <string name="connection_problem">Connection Problem !</string>
+    <string name="movie">movie</string>
+    <string name="sub_title">sub title</string>
+    <string name="movie_info">Movie Info</string>
+    <string name="release_date">Release Date</string>
+</resources>
